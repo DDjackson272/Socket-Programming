@@ -26,3 +26,6 @@ linkstate
 csma
 .png
 .fig
+.idea
+CMakeLists.txt
+cmake-build-debug
